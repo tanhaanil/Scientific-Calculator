@@ -84,9 +84,9 @@ src/
     └── FXMLDocument.fxml
 ```
 
-* **`UICALCULATOR.java`** — Starts the JavaFX application, loads the FXML file, creates the scene, and displays the window.
-* **`FXMLDocumentController.java`** — Contains the calculator's interaction and mathematical logic.
-* **`FXMLDocument.fxml`** — Defines the graphical user interface designed with Scene Builder.
+* **`UICALCULATOR.java`** - Starts the JavaFX application, loads the FXML file, creates the scene, and displays the window.
+* **`FXMLDocumentController.java`** - Contains the calculator's interaction and mathematical logic.
+* **`FXMLDocument.fxml`** - Defines the graphical user interface designed with Scene Builder.
 
 ## Technical Highlights
 
