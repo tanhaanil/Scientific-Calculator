@@ -34,9 +34,9 @@ A desktop-based **Scientific Calculator** built using **Java and JavaFX**. The g
 
 ### Calculator Controls
 
-* **AC** — Clears the entire display
-* **C** — Removes the last entered character
-* **OFF** — Closes the application
+* **AC** - Clears the entire display
+* **C** - Removes the last entered character
+* **OFF** - Closes the application
 * Decimal-point validation prevents multiple decimal points from being entered
 
 ## What I Learned
@@ -73,30 +73,6 @@ This project gave me hands-on experience in building a desktop GUI application a
 * Connecting FXML controls to controller methods
 * Using `fx:id` and `@FXML` for controller interaction
 * Separating the user interface from the application logic
-
-## How the Calculator Works
-
-The calculator keeps track of the first number and the selected operator before accepting the second number.
-
-The basic calculation flow is:
-
-```text
-First number
-     ↓
-Select operator
-     ↓
-Second number
-     ↓
-Press =
-     ↓
-Perform calculation
-     ↓
-Display result
-```
-
-For scientific operations, the value currently shown on the display is passed to the corresponding mathematical function.
-
-For example, trigonometric calculations use Java's built-in `Math` functions, while operations such as factorial and power were implemented using loops.
 
 ## Project Structure
 
