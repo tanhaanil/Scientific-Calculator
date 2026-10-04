@@ -1,5 +1,6 @@
-# Scientific Calculator
 
+# Scientific Calculator
+![Calculator Preview](Screenshot(3832).png)
 A desktop-based **Scientific Calculator** built using **Java and JavaFX**. The graphical user interface was designed using **Scene Builder and FXML**, while the calculator operations and interaction logic were implemented in Java.
 
 ## Features
